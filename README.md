@@ -25,7 +25,7 @@ A simple userscript to remove unwanted VeePN elements from web pages.
    - [Violentmonkey](https://violentmonkey.github.io/)
    - [OrangeMonkey](https://chromewebstore.google.com/detail/orangemonkey/ekmeppjgajofkpiofbebgcbohbmfldaf)
 
-2. Click [here](https://gist.github.com/imagineSamurai/73bd6c0f989ef586abb7db251b7b6978) to install the script
+2. Click [here](https://gist.githubusercontent.com/imagineSamurai/73bd6c0f989ef586abb7db251b7b6978/raw/veepn_blocker.user.js) to install the script
 
 ## Usage
 
