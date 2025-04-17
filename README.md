@@ -1,9 +1,11 @@
 # VeePN Element Blocker
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](./veepn_blocker.user.js)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0-green.svg)](./veepn_blocker.user.js)
-[![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Supported-brightgreen.svg)](https://www.tampermonkey.net/)
 [![Support me on Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B.svg)](https://ko-fi.com/imagineSamurai)
+
+
 
 A simple userscript to remove unwanted VeePN elements from web pages.
 
@@ -35,13 +37,12 @@ Feel free to open issues or submit pull requests if you have any improvements or
 
 ## Support
 
-If you find this userscript helpful, you can support me:
 
-<a href='https://ko-fi.com/imagineSamurai' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/imagineSamurai' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a0172b90570b1c21dab_kofi_logo.png' /></a>
 
 ## License
 
-MIT License
+[MIT License](https://github.com/imagineSamurai/Veepn-Element-Blocker/blob/main/LICENSE)
 
 ## Author
 
