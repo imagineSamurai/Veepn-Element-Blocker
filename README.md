@@ -24,7 +24,6 @@ A simple userscript to remove unwanted VeePN elements from web pages.
    - [OrangeMonkey](   - [OrangeMonkey](https://chromewebstore.google.com/detail/orangemonkey/ekmeppjgajofkpiofbebgcbohbmfldaf)
 
 2. Click [here](./veepn_blocker.user.js) to install the script
-   - Your userscript manager should automatically detect and prompt you to install it
 
 ## Usage
 
