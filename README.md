@@ -23,9 +23,9 @@ A simple userscript to remove unwanted VeePN elements from web pages.
    - [Tampermonkey](https://www.tampermonkey.net/) (Recommended)
    - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
    - [Violentmonkey](https://violentmonkey.github.io/)
-   - [OrangeMonkey](   - [OrangeMonkey](https://chromewebstore.google.com/detail/orangemonkey/ekmeppjgajofkpiofbebgcbohbmfldaf)
+   - [OrangeMonkey](https://chromewebstore.google.com/detail/orangemonkey/ekmeppjgajofkpiofbebgcbohbmfldaf)
 
-2. Click [here](./veepn_blocker.user.js) to install the script
+2. Click [here](https://gist.github.com/imagineSamurai/73bd6c0f989ef586abb7db251b7b6978) to install the script
 
 ## Usage
 
@@ -42,7 +42,7 @@ Feel free to open issues or submit pull requests if you have any improvements or
 
 ## License
 
-[MIT License](https://github.com/imagineSamurai/Veepn-Element-Blocker/blob/main/LICENSE)
+[MIT License](./LICENSE)
 
 ## Author
 
